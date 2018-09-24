@@ -2,7 +2,6 @@
   "name": "mcpx-vvvf-manual",
   "version": "0.0.1",
   "description": "The manual of Yaskawa L1000A VVVF for mcpx series electric control panel for elevators",
-  "main": "index.js",
   "scripts": {
     "build": "gulp build",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
